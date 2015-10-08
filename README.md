@@ -1,0 +1,2 @@
+# zjqqbhiradachi_test
+zjqqbhiradachiのgit test用リポジトリ
